@@ -4,7 +4,7 @@
 <!--
 <img src="https://github.com/mohamedabusrea/mohamedabusrea/blob/master/profile-img.png" align="right" width="25%"/>
 -->
-<img src="https://img.freepik.com/free-vector/software-programmer-girl-office-work-vector-design_107791-20453.jpg?w=900&t=st=1700730454~exp=1700731054~hmac=f529880fd03e39dfcdb02d470b08205ad1a0a5b760969139264312b62e54eef0" align="right" width="25%"/>
+<img src="https://img.freepik.com/free-vector/software-programmer-girl-office-work-vector-design_107791-20453.jpg?w=900&t=st=1700730454~exp=1700731054~hmac=f529880fd03e39dfcdb02d470b08205ad1a0a5b760969139264312b62e54eef0" align="right" width="40%"/>
 <p> -🔭 I am a Node JS Backend Engineer . </p>
 <p> -🔭a student at the Faculty of Computers and Artificial Intelligence, Helwan university , CS department </p>
 <p> -🔭Strong command of backend technologies, including Express.js, MongoDB And MySQL . </p>
